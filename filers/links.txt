@@ -1,3 +1,19 @@
+
+
+
+
+http://smacss.com/
+
+https://geoalchemy-2.readthedocs.io/en/latest/core_tutorial.html
+
+https://github.com/usgs-makerspace/makerspace-vue2leaflet-example
+
+https://medium.com/radiant-solutions/maprules-custom-tagging-presets-and-validation-rules-for-openstreetmap-581f8fa6df3d
+
+https://github.com/hotosm/tasking-manager
+
+https://learnosm.org/en/josm/creating-presets/
+
 https://github.com/tlubenov/iD.git
 
 https://github.com/bhousel/slackosm
