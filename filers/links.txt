@@ -2,6 +2,42 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+https://towardsdatascience.com/the-jira-mindset-is-damaging-your-data-science-team-66efc46aaa47
+
+https://stackoverflow.com/questions/57948003/how-to-increase-jupyter-notebook-memory-limit
+
+https://live.osgeo.org/en/quickstart/ideditor_quickstart.html#add-additional-information-and-custom-tags
+
+https://github.com/radiant-maxar/maprules
+
+https://www.fdiintelligence.com/gis-planning?trfcsrc=FDIi_ext_SEM_GA_B2B_pr_[SRC]-GISP-video!!&cid=1707099559&agid=65459885463&adid=395561073562&gclid=Cj0KCQjw7qn1BRDqARIsAKMbHDYqFvk5XCzPzjR6iYDKBVXzf-n02se85QAbzPRk7Qfhg_Vy6mhsAPYaAuuREALw_wcB
+
+https://github.com/openstreetmap/osm2pgsql
+
+https://github.com/openstreetmap/josm
+
+https://github.com/openstreetmap/openstreetmap-website/blob/master/INSTALL.md
+
+https://github.com/openstreetmap/openstreetmap-website/blob/master/INSTALL.md#database-setup
+
+https://medium.com/radiant-solutions/maprules-custom-tagging-presets-and-validation-rules-for-openstreetmap-581f8fa6df3d
+
+https://github.com/radiant-maxar/maprules
+
+-----------
+
 http://smacss.com/
 
 https://geoalchemy-2.readthedocs.io/en/latest/core_tutorial.html
