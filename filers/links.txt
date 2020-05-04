@@ -8,13 +8,14 @@
 
 
 
+https://wiki.openstreetmap.org/wiki/Component_overview
+https://wiki.openstreetmap.org/wiki/Databases_and_data_access_APIs
 
+https://github.com/pelias/model
+https://www.mapzen.com/projects/
+https://github.com/pelias/api
 
-
-
-
-
-
+----------------------------------------------------------------------------------------------------------
 
 https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/table-of-contents
 https://app.pluralsight.com/library/courses/files-java-nio-api/table-of-contents
