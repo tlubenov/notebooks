@@ -14,6 +14,25 @@
 
 
 
+
+
+https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/table-of-contents
+https://app.pluralsight.com/library/courses/files-java-nio-api/table-of-contents
+https://app.pluralsight.com/library/courses/creating-typescript-declaration-file/table-of-contents
+https://app.pluralsight.com/library/courses/advanced-web-scraping-tactics-python-playbook/table-of-contents
+https://app.pluralsight.com/library/courses/java-ee-big-picture/table-of-contents
+https://app.pluralsight.com/library/courses/java-14-whats-new/table-of-contents
+https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents
+https://app.pluralsight.com/library/courses/nodejs-async-patterns/table-of-contents
+https://app.pluralsight.com/library/courses/advanced-generators-and-coroutines/table-of-contents
+https://app.pluralsight.com/library/courses/getting-started-programming-java/table-of-contents
+https://app.pluralsight.com/library/courses/python-best-practices-code-quality/table-of-contents
+https://app.pluralsight.com/library/courses/core-python-numeric-types-dates-times/table-of-contents
+
+https://linuxize.com/post/how-to-install-virtualbox-guest-additions-in-ubuntu/
+
+-----------------------------------------------------------------------------------------------
+
 https://towardsdatascience.com/the-jira-mindset-is-damaging-your-data-science-team-66efc46aaa47
 
 https://stackoverflow.com/questions/57948003/how-to-increase-jupyter-notebook-memory-limit
