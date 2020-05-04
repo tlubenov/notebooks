@@ -49,8 +49,12 @@ https://switch2osm.org/serving-tiles/
     The Rails Port
 https://wiki.openstreetmap.org/wiki/The_Rails_Port
 
+    Manually Building a tile server 18.04.LTS
+https://switch2osm.org/serving-tiles/manually-building-a-tile-server-18-04-lts/
 
+    osmread
+https://github.com/dezhin/osmread/
 
-
-
+    Osmapi
+https://wiki.openstreetmap.org/wiki/Osmapi
 
